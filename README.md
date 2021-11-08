@@ -1,3 +1,3 @@
 # Self-Driving-Car
 
-Positive reinforcement learning algorythm
+Positive reinforcement learning algorithm
